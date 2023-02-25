@@ -21,7 +21,7 @@ html, body{
 .heading {
     color: #ffffff;
     display: block;
-    font-family: 'Caveat', sans-serif;
+    font-family: 'Quicksand', Caveat', sans-serif;
     font-size: 6em;
     font-weight: normal;
     text-shadow: 0 0 10px #000;
@@ -29,7 +29,7 @@ html, body{
 .heading-subtext{
     color: #fff;
     display: block;
-    font-family: 'Caveat', sans-serif;
+    font-family: 'Quicksand', sans-serif;
     font-size: .6em;
 }
 .fixed-button{
